@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "dk8s-263003",
-  "private_key_id": "671154db36a3b0f2480d8f4490bd0e046d7fae29",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD0fTP6RDcWjBn\nbjVTUZzAiioklY0e8aLRDMeYtUkeB91Ge0Wtq05ksLKROiosI75bFsMiF31VMPHg\nNEBECHG4JhuA7BQMeAdM45j31xkLYdv20HAv/K0IMTJQKRFn/zCYg6ylsJfgV1X0\nh7Q05LBKmR8nzqDNVMEazBNMUNziO+BtNx8cIUiGWSnFEU0M7Ofh/eP3BwkZbHkn\nLxybBhRohyyR3Tx60MC3Voqf+VAvZ2VltqpD8+DoAs1D9yrGPOfQEq3p61PU0GbE\nmOrSNUMRhcnJ+V22jnuand8/burXr1aX6ZLuQFOFho3c9ww4tBeGC62eEcBcS1/G\nXWBsrqA9AgMBAAECggEABK3p+yTp46YeatOnSmYpyC+/tDpEUiAP62Mc4EE8GHpe\nId7KFQ1sqmXO4pRgqRzdNzkwRl/dfXFrD5ftYuLOcDTYP+iu+ExO+ln5pWSFDfCo\n9w6B5nepMogAbd90BxzsmPG+k1gIt7zxNM51soo2IeuOTcnM2GiafmIwN4jlelzN\nVnr6NDIMZeF68Fg8gl0WLz9qgU2YlffL4sHAGY/jWp5qQJA/DkdEedFwbh9VxddL\ns55PH2NcEEkgAa4aBbejYqSUReYxewYaOytXS5+6++VISvfRaaNehTkDGEKTqYKb\nAmjZtZCrws4VFnka4GcnZ5CnMOaPgv/ejzrx9HZGUQKBgQD5Txo9Dx0+bgyANrA2\nYt/YPDQsZj9mTU19JxLu6kAFfjQVKOH3MZGjJIZN97jaOq5YYT1R4v90xTH31Cif\nA6XWPSx1Fq06X0ZEjPILYx7+H7OOWMJe78QOkRu+GXqU6iRqWzN/7vz9NfH6lQ6Y\ngycrwfAJgdgfwTU/hAlP/txuUQKBgQDJE1q19/8bSLEBQa969gT2M4zd4DwODBiU\nIwrHfMQ4KXI9MAqabwysFmO1wt3sC1oApicjKnSnsf51+kxve6WyE+7+phPEnMxq\n/yY0SqvBD+jlUsPTiJZIKSWqUbG1hvOo7YyFYcwvllF6Dq1lxcF6rjU1b4KkenCp\nlKxVEoB8LQKBgQDK7fFcnA3gwDEat+ktC8RKvY52SW/3tJqLcZ++qxwbnIOGabWs\nwUNbeSJ9GlP0BmnddKE2I0BuawjmQmIiNRTq0vZ6BFBSwDRxHgzy6ebTUTiVeHgW\nULHUbZcYYKLfzcqAa+X6j6yL6zohDu1HhRIAUycwhelGx7yxC6eM3tXMUQKBgFnt\nO/5yATe0lOUY+WAmsyVg/LkmVfV6V2u5GFMLa74qWxseZz+WNran9MQPeKzejswH\ngy1pCW8OXd1pqdGaHQq9e3+Lyv99mLapke6FDrdzZBdbopTyWzO+o0e+7Zlf141P\nYC8vA+Cse5f5BHelr9gsHUPesTDaSZSuFzyc37WpAoGBANdFde2UmBCIBBA6FDKP\n/r/XmGIvitYDvf+wuWARQuNZqdVi2FEcyGfcdNSpsC8nQeeJm4Dw6gOMpw0L3fpH\n4vp1tdSBQYnBp9QVFdsY8r+fnr3Tjo5E9tULruKWkzOwmPnYhZmamsqNNKfmn2e+\nduUKgmcLZpk8wpa5Zk6+w2vK\n-----END PRIVATE KEY-----\n",
-  "client_email": "travis-deployer-847@dk8s-263003.iam.gserviceaccount.com",
-  "client_id": "104235424213576380913",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-deployer-847%40dk8s-263003.iam.gserviceaccount.com"
-}
+asdfasdfasdfasdf
