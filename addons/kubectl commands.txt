@@ -1,0 +1,50 @@
+minikube start --vm-driver=virtualbox
+
+minikube status
+kubectl cluster-info
+
+kubectl apply -f client-pod.yaml
+minikube logs
+kubectl apply -f client-node-port.yaml
+
+kubectl get pods
+kubectl get services
+
+minikube logs
+minikube ip
+
+minikube dashboard
+
+
+kubectl describe pod client-pod
+
+kubectl delete -f client-pod.yaml
+
+kubectl describe 
+
+kubectl get deployments
+
+minikube docker-env
+
+
+kubectl get deployments
+kubectl delete deployment client-deployment
+kubectl get services
+kubectl delete service client-node-port
+kubectl get storageClass
+kubectl describe storageClass
+
+kubectl get pv		-- to get persistent volume
+				bound -- means its in use
+
+kubectl get pvc		-- persistent volume claim
+
+	/********** to create secret ***********/
+kubectl create secret docker-registry
+kubectl create secret tls			-- to set keys for HTTP
+
+kubectl create secret generic pgpassword --from-literal PGPASSWORD=postgres_password
+kubectl get secrets
+
+kubectl get pods -n kube-system
+minikube service web --url 

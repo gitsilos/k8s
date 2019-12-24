@@ -1,0 +1,14 @@
+https://kubernetes.github.io/ingress-nginx/deploy/#mandatory-command
+
+1. kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/mandatory.yaml
+
+For minikube
+	minikube addons enable ingress
+
+	minikube addons disable ingress
+	 kubectl get pods -n ingress-nginx
+
+
+for google, LoadBalancer Service and google cloud loadBalancer cloud service will be created.
+
+https://itnext.io/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd
